@@ -1,5 +1,5 @@
 # README Bash Course
 
-!(/mbshome/jmolen/bash_course/ebc.gif)
+![](https://github.com/JulesvdMolen/bash_course/blob/master/ebc.gif)
 
 This is the bash course repository
